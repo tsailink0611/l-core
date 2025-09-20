@@ -25,7 +25,10 @@
       "mcp__puppeteer__puppeteer_fill",
       "Read(//c/Users/tsail/Desktop/スクリーンショット/**)",
       "mcp__puppeteer__puppeteer_evaluate",
-      "Bash(git init:*)"
+      "Bash(git init:*)",
+      "Bash(gh repo create:*)",
+      "Bash(git remote add:*)",
+      "Bash(git branch:*)"
     ],
     "deny": [],
     "ask": []
