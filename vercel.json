@@ -1,10 +1,4 @@
 {
-  "crons": [
-    {
-      "path": "/api/cron/dispatch",
-      "schedule": "*/1 * * * *"
-    }
-  ],
   "functions": {
     "src/app/api/line/webhook/route.ts": {
       "maxDuration": 5
