@@ -12,10 +12,5 @@
     "src/app/api/cron/dispatch/route.ts": {
       "maxDuration": 60
     }
-  },
-  "env": {
-    "NEXT_PUBLIC_FIREBASE_API_KEY": "@firebase-api-key",
-    "NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN": "@firebase-auth-domain",
-    "NEXT_PUBLIC_FIREBASE_PROJECT_ID": "@firebase-project-id"
   }
 }
